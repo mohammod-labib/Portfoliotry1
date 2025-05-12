@@ -23,17 +23,17 @@
                      Hey,I am <br> Mohammod  Labib
             </h1>
 
-            <h3 id="pro1">
+            <p id="pro1">
                 I am a student and <br> I am a developer and a designer
-            </h3>
+            </p>
 
              <h1> 
                 This is my portfolio
             </h1>
 
-             <h1 id="skills1">
+             <p id="skills1">
                 Skills
-            </h1>
+            </p>
             <div class="view"></div>
             <div class="block1"></div>
             <div class="block2"></div>
